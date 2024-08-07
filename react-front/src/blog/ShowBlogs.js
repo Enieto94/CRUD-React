@@ -32,9 +32,9 @@ const CompShowBlogs = () => {
                     <table className='table'>
                         <thead className='table-primary'>
                             <tr>
-                                <th>Title</th>
-                                <th>Content</th>
-                                <th>Actions</th>
+                                <th>Título</th>
+                                <th>Contenido</th>
+                                <th>Acciones</th>
                             </tr>
                         </thead>
                         <tbody className='table-primary'>
