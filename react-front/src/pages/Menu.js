@@ -28,7 +28,7 @@ class Menu extends Component {
 
         return (
             <div id='menu'>
-                <a href="http://localhost:3000/dashboard" className="btn btn-info"><i className="fa-solid fa-rotate-left"></i>Volver</a>
+                <a href="http://localhost:3000/main" className="btn btn-info"><i className="fa-solid fa-rotate-left"></i>Volver</a>
                 <img src={logo} alt="logo" />
 
                 <button className='btn-cerrar-sesion' onClick={() => this.cerrarSesion()}>
